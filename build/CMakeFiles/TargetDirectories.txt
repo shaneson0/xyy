@@ -1,0 +1,1 @@
+/mnt/Document/quarter/quarter_final4/build/CMakeFiles/cdn.dir
